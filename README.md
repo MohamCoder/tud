@@ -11,8 +11,7 @@ what will it return?<br>
 <br>
 if you want to run tud globally do this:<br>
     1-you need to copy the path of tud.js to the clipboard<br>
-    2-you need to add it as an alias to your .bashrc\<br>
-<br>
+    2-you need to add it as an alias to your .bashrc
 ```bash
 alias tud='node /path/to/to_unix_dir/tud.js'
 ```
