@@ -1,17 +1,17 @@
 # windpws-path-to-unix-path
-what is tud (to unix directory)?
-    tud is a tool you can use to convert windows paths to unix paths in wsl
-how to use tud?
+what is tud (to unix directory)?<br>
+    tud is a tool you can use to convert windows paths to unix paths in wsl<br>
+how to use tud?<br>
     just type `tud` in your terminal
 
 ```bash
 tud "windows path"
 ```
-what will it return?
+what will it return?<br>
     it will return the unix path that starts with "/mnt/"
-
-if you want to run tud globally do this:
-    1-you need to copy the path of tud.js to the clipboard
+<br>
+if you want to run tud globally do this:<br>
+    1-you need to copy the path of tud.js to the clipboard<br>
     2-you need to add it as an alias to your .bashrc\
 
 ```bash
