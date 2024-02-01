@@ -7,7 +7,7 @@ how to use tud?<br>
 tud "windows path"
 ```
 what will it return?<br>
-    it will return the unix path that starts with "/mnt/"<br>
+    it will return the unix path and add "/mnt/" if the path needs it<br>
 <br>
 if you want to run tud globally do this:<br>
     1-you need to copy the path of tud.js to the clipboard<br>
