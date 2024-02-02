@@ -15,8 +15,3 @@ if you want to run tud globally do this:<br>
 ```bash
 alias tud='node /path/to/to_unix_dir/tud.js'
 ```
-run chmod +x tud to make tud executable
-
-```bash
-chmod +x tud.js
-```
